@@ -1,0 +1,49 @@
+/*
+Jamison LeBreton
+3/11/2016
+Assignment 6
+Professor Chrenka
+*/
+
+h1
+{
+	font-size: 18px;
+	text-align: center;
+}
+
+/* Center content in h2 */
+h2
+{
+	margin: auto;
+	width: 650px;
+}
+
+/* Image padding top right bottom left */
+.image
+{
+	padding: 50px 10px 50px 10px;
+}
+
+/* Center output and preserve whitespace */
+#output
+{
+	font-size: 48px;
+	margin: auto;
+	width: 400px;
+	white-space: pre;
+	text-align: center;
+}
+
+/* Classes to set background color - lighting */
+.whitelight { background-color: #ffffff; }
+.cyanlight { background-color: #00ffff; }
+.fuchsialight { background-color: #ff00ff; }
+.goldlight { background-color: #ffd700; }
+.blacklight { background-color: #000000; }
+
+/* Classes to set font color - dancer */
+.whitecolor { color: #ffffff; }
+.cyancolor { color: #00ffff; }
+.fuchsiacolor { color: #ff00ff; }
+.goldcolor { color: #ffd700; }
+.blackcolor { color: #000000; }
